@@ -4,4 +4,4 @@ All the experiments and code related to AI, Chatbots, RAG, AI Agents and everyth
 
 # Table of Contents
 
-- [Basic Chatbot](https://github.com/aritranag/ai_engineering/tree/main/1-chatbot-local)
+- 1. [Basic Chatbot](https://github.com/aritranag/ai_engineering/tree/main/1-chatbot-local)
