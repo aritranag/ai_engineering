@@ -7,6 +7,7 @@ model_list = {
     'gemma' : 'gemma3:4b',
 }
 
+# This will query the supplied model and return the full response as a string
 def query_model(model=model_list['gemma'], query = None, system_role=None):
     '''
     @param model: the name of the model to use for querying
